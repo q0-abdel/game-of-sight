@@ -12,7 +12,7 @@ This project is the result of a no-code development approach:
 
 - I'm a total beginner in programming ("totally newbie coding").
 - The project was built using AI-powered tools (specifically Windsurf IDE) to test an idea without writing any code myself.
-- The total project time taken for v1 was only **2h30**.
+- The total project time taken for v1 was **3h**.
 - The initial inspiration came from a real-life theater exercise and the desire to model it, similar in concept to an "Evolution Simulator."
 
 The development process involved using:
