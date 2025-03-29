@@ -7,6 +7,12 @@ If a participant fails to make eye contact with another participant for a specif
 
 The simulation serves as a visual metaphor for group dynamics and mutual support through eye contact.
 
+## Project History
+
+This project was initially part of a larger repository called "Repository_v0" where I stored all my early programming projects as a beginner. On March 29, 2025, I reorganized my GitHub to give each project its own dedicated repository, which is a better practice for project management.
+
+This project was created on March 19, 2025, after my first "Hello World" program (March 17, 2025). The repository was renamed from "GameOfSight" to "game-of-sight" during the reorganization to follow better naming conventions with hyphenated lowercase.
+
 ## Context
 This project is the result of a no-code development approach:
 
