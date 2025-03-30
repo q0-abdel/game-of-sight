@@ -7,6 +7,8 @@ If a participant fails to make eye contact with another participant for a specif
 
 The simulation serves as a visual metaphor for group dynamics and mutual support through eye contact.
 
+![image](https://github.com/user-attachments/assets/e37b41a1-5b02-462b-8934-ec5cea02df32)
+
 ## Project History
 
 This project was initially part of a larger repository called "Repository_v0" where I stored all my early programming projects as a beginner. On March 29, 2025, I reorganized my GitHub to give each project its own dedicated repository, which is a better practice for project management.
